@@ -1,0 +1,1 @@
+This is lostfanatic's first git project!
